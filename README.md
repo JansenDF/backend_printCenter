@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ### Montando o ambiente:
 
 ```bash
-git clone https://github.com/jansen/backend_printCenter.git
+git clone https://github.com/jansenDF/backend_printCenter.git
 cd backend_printCenter
 python3 -m venv venv
 source venv/bin/activate
