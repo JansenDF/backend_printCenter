@@ -1,0 +1,7 @@
+#Pastas e arquivos a serem ignorados pelo git
+
+#Ambientes virtuais
+/venv
+
+#Cache
+/__pycache__
